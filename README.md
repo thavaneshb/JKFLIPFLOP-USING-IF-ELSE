@@ -74,7 +74,7 @@ module jk_ff(j, k, clk, rst, q);
 ![image](https://github.com/user-attachments/assets/0be5c309-6118-4d1d-8e40-0d30e8a0ac97)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/37f1c9ba-2de8-43fb-827f-395e1e8e98d2)
 
 
